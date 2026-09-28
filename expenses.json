@@ -4,6 +4,111 @@
         "amount": 99.93,
         "category": "demo",
         "date": "2026-09-20",
-        "note": "hi this is the demo task"
+        "note": "hi this is the demo task",
+        "payment_method": "UPI"
+    },
+    {
+        "id": "exp_ff82f942",
+        "amount": 1850.0,
+        "category": "Groceries",
+        "payment_method": "UPI",
+        "date": "2026-09-02",
+        "note": "Weekly supermarket essentials"
+    },
+    {
+        "id": "exp_63d5a1a2",
+        "amount": 350.0,
+        "category": "Food",
+        "payment_method": "UPI",
+        "date": "2026-09-03",
+        "note": "Team lunch at cafeteria"
+    },
+    {
+        "id": "exp_965cf960",
+        "amount": 950.0,
+        "category": "Bills",
+        "payment_method": "Net Banking",
+        "date": "2026-09-05",
+        "note": "High-speed broadband bill"
+    },
+    {
+        "id": "exp_be963bd8",
+        "amount": 420.0,
+        "category": "Transport",
+        "payment_method": "Cash",
+        "date": "2026-09-06",
+        "note": "Metro smart card recharge"
+    },
+    {
+        "id": "exp_62ce0797",
+        "amount": 1200.0,
+        "category": "Entertainment",
+        "payment_method": "Credit Card",
+        "date": "2026-09-08",
+        "note": "Weekend IMAX movie tickets"
+    },
+    {
+        "id": "exp_fa4d282a",
+        "amount": 2500.0,
+        "category": "Shopping",
+        "payment_method": "Credit Card",
+        "date": "2026-09-10",
+        "note": "Running shoes discount deal"
+    },
+    {
+        "id": "exp_b6c92b57",
+        "amount": 650.0,
+        "category": "Health",
+        "payment_method": "Debit Card",
+        "date": "2026-09-12",
+        "note": "Multivitamins & pharmacy"
+    },
+    {
+        "id": "exp_58a7f6a3",
+        "amount": 199.0,
+        "category": "Entertainment",
+        "payment_method": "UPI",
+        "date": "2026-09-14",
+        "note": "Music streaming subscription"
+    },
+    {
+        "id": "exp_0e4aeda0",
+        "amount": 1400.0,
+        "category": "Transport",
+        "payment_method": "UPI",
+        "date": "2026-09-16",
+        "note": "Fuel refill - Full tank"
+    },
+    {
+        "id": "exp_31c7ccff",
+        "amount": 880.0,
+        "category": "Food",
+        "payment_method": "UPI",
+        "date": "2026-09-18",
+        "note": "Dinner with family"
+    },
+    {
+        "id": "exp_f998738c",
+        "amount": 3200.0,
+        "category": "Groceries",
+        "payment_method": "Debit Card",
+        "date": "2026-08-15",
+        "note": "Monthly pantry groceries"
+    },
+    {
+        "id": "exp_2d8f5951",
+        "amount": 1500.0,
+        "category": "Bills",
+        "payment_method": "Net Banking",
+        "date": "2026-08-10",
+        "note": "Electricity bill"
+    },
+    {
+        "id": "exp_c6c3a22e",
+        "amount": 750.0,
+        "category": "Education",
+        "payment_method": "UPI",
+        "date": "2026-08-20",
+        "note": "Programming e-book & tutorial"
     }
 ]
